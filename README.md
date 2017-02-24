@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Kashz Media
 
 You can use the [editor on GitHub](https://github.com/KashzMedia01/online/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
